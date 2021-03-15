@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @newfaceee
+- 👀 I’m interested in JS, React, Vue
+- 🌱 I’m currently learning Vue, GraphQL, Apollo-Client, Typescript, React-testing-library, Jest
